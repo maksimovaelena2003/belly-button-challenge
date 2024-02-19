@@ -13,3 +13,4 @@ Assignment 14
 4. Display the sample metadata.
 Displayed  each key-value pair from the metadata JSON object somewhere on the page.
 
+5. All the plots when a new sample is selected are updated. 
